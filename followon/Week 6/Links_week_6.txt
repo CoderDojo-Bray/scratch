@@ -1,0 +1,13 @@
+Automatic drawing:
+
+http://jsfiddle.net/newpatriks/5VcQL/
+
+
+Draw a star:
+
+http://jsfiddle.net/earnubs/TZasK/
+
+
+More about HTML5:
+
+http://techslides.com/learning-html5-canvas-through-jsfiddle-examples/
